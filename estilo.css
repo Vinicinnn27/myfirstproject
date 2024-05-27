@@ -1,0 +1,21 @@
+body {
+    background: rgb(71, 71, 121);
+    font: normal 15pt Arial;
+}
+header {
+    color: white;
+    text-align: center;
+}
+section {
+    background: white;
+    border-radius: 10px; /* essa função é para deixar as bordas arredondadas */
+    padding: 15px; /* Serve para dar espaço entre o conteúdo e a borda */
+    width: 450px;
+    margin: auto; /* centraliza o conteúdo da section */
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.562); /* serve para colocar uma sombra */
+}
+footer { 
+    color: white;
+    text-align: center;
+    font-style: italic;
+}
